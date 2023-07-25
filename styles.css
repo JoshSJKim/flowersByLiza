@@ -6,6 +6,36 @@ body {
 .header {
   display: flex;
   flex-direction: column;
+  justify-content: space-between;
   background-color: #2D3142;
-  color: #EAE8FF;
+  color: #D8D5DB;
+}
+
+p {
+  font-family: cursive;
+}
+
+.logo {
+  display: flex;
+  flex-direction: column;
+  width: 500px;
+  margin: 30px auto;
+}
+
+.logo-name {
+  font-size: 4em;
+  margin: 0;
+}
+
+.logo-title {
+  margin-left: auto;
+  margin-top: 0;
+}
+
+ul {
+  display: flex;
+  justify-content: space-around;
+  list-style: none;
+  padding-bottom: 10px;
+  font-size: 18px;
 }
