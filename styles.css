@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.header {
+  display: flex;
+  flex-direction: column;
+  background-color: #2D3142;
+  color: #EAE8FF;
+}
