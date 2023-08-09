@@ -51,7 +51,13 @@ li > a {
 }
 
 .description {
-  margin: 50px 250px;
+  margin: 30px 250px 20px;
   padding: 20px;
   font-size: 18px;
+}
+
+.services {
+  margin-left: 255px;
+  padding-left: 20px;
+  margin-bottom: -10px;
 }
