@@ -44,3 +44,8 @@ ul {
   padding: 0 200px 10px;
   font-size: 18px;
 }
+
+li > a {
+  color: #D8D5DB;
+  text-decoration: none;
+}
