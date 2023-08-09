@@ -51,5 +51,7 @@ li > a {
 }
 
 .description {
-  font-family: ;
+  margin: 50px 250px;
+  padding: 20px;
+  font-size: 18px;
 }
