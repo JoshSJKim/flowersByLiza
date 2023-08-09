@@ -11,10 +11,6 @@ body {
   color: #D8D5DB;
 }
 
-p {
-  font-family: cursive;
-}
-
 .logo {
   display: flex;
   flex-direction: column;
@@ -22,6 +18,10 @@ p {
   margin: 30px auto;
 }
 
+.logo-name,
+.logo-title {
+  font-family: cursive;
+}
 .logo-name {
   font-size: 4em;
   margin: 0;
@@ -48,4 +48,8 @@ ul {
 li > a {
   color: #D8D5DB;
   text-decoration: none;
+}
+
+.description {
+  font-family: ;
 }
