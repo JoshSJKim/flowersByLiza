@@ -63,6 +63,13 @@ li > a {
 
 /* styling for about page below */
 
+.about-image {
+  width: 70%;
+  display: block;
+  margin: 25px auto;
+  border-radius: 5px;
+}
+
 .description {
   margin: 30px 250px 20px;
   padding: 20px;
